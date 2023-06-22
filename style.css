@@ -483,6 +483,7 @@
 }
 .divs3 ul li a{
     color: white;
+    text-decoration: none;
 }
 .divs4{
     width: 220px;
@@ -529,6 +530,6 @@
     height: 48px;
     margin-top: -45px;
     float: right;
-    border: 2px solid #101428;
+    
     cursor: pointer;
 }

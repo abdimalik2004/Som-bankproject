@@ -534,3 +534,66 @@
     
     cursor: pointer;
 }
+/*about as css*/
+.headrow{
+    color: rgb(94, 91, 91);
+    margin-top: 100px;
+    margin-left: 120px;
+}
+.abcolumn1{
+    width: 86%;
+    height: 1000px;
+    margin-left: 200px;
+}
+.abcolumn1 h4{
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 55px;
+    color: rgb(94, 91, 91);
+}
+.abcolumn1 p{
+    margin-left: 60px;
+    color: rgb(94, 91, 91);
+    font-size: 15px;
+}
+.abcolumn1 img{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    margin-left: 20px;
+}
+.abcontent{
+    width: 100%;
+    height: 580px;
+    background-color: #004165;
+}
+.abcontent .colm-left{
+    width: 50%;
+    height: 500px;
+    border: 2px solid #004165;
+}
+.abcontent .colm-left h2{
+    color: white;
+    margin-left: 170px;
+    margin-top: 80px;
+}
+.abcontent .colm-left ul li{
+    color: white;
+    margin-left: 170px;
+    font-size: 18px;
+    padding: 8px;
+}
+.abcontent .colm-right{
+    width: 50%;
+    height: 500px;
+}
+.abcontent .colm-right img{
+    width: 600px;
+    height: 400px;
+    margin-left: 840px;
+    margin-top: -470px;
+    border: 2px solid #004165;
+}
+.middle-content2{
+    margin-top: 30px;
+}
